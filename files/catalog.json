@@ -1,0 +1,142 @@
+[
+    {
+        "source": "cd",
+        "title": "infinity",
+        "subject": null,
+        "upc": null,
+        "artist": null
+    },
+    {
+        "source": "book",
+        "title": "Infinity Love",
+        "subject": "Novel",
+        "upc": null,
+        "issbn": "978-623-09-5602-7",
+        "authors": "Nindya Ivana",
+        "dds_number": 121123
+    },
+    {
+        "source": "book",
+        "title": "To Infinity and Beyond",
+        "subject": "Book",
+        "upc": null,
+        "issbn": "9781426223303",
+        "authors": "Neil and Lindsey",
+        "dds_number": 51223
+    },
+    {
+        "source": "book",
+        "title": "The Infinity Between Us",
+        "subject": "Book",
+        "upc": null,
+        "issbn": null,
+        "authors": "Perkins",
+        "dds_number": 79868
+    },
+    {
+        "source": "book",
+        "title": "The Infinity Gauntlet",
+        "subject": "comic",
+        "upc": null,
+        "issbn": null,
+        "authors": "Marvel Comic",
+        "dds_number": 61992
+    },
+    {
+        "source": "book",
+        "title": "Infinity Welcomes Careful Drivers",
+        "subject": "Novel",
+        "upc": null,
+        "issbn": "9708779879096",
+        "authors": "Grant Naylor",
+        "dds_number": 987689
+    },
+    {
+        "source": "book",
+        "title": "Harry Potter and the Deathly Hallows - Part 1 ",
+        "subject": "Fantasy",
+        "upc": null,
+        "issbn": "0-545-01022-5",
+        "authors": "J.K Rowling",
+        "dds_number": 210707
+    },
+    {
+        "source": "magazine",
+        "title": "daily bugle",
+        "subject": "subject",
+        "upc": null,
+        "volume": "volume 1",
+        "issue": "-"
+    },
+    {
+        "source": "magazine",
+        "title": "kompas",
+        "subject": "subject",
+        "upc": null,
+        "volume": "volume 2",
+        "issue": "-"
+    },
+    {
+        "source": "dvd",
+        "title": "Avengers : Infinity War (2018)",
+        "subject": "Movie",
+        "upc": null,
+        "actors": null,
+        "directors": "Anthony and Joe Russo",
+        "genre": "Actions, Superhero, Comedy, Science Fiction, Adventure"
+    },
+    {
+        "source": "dvd",
+        "title": "Tom & Jerry",
+        "subject": "Cartoon",
+        "upc": null,
+        "actors": null,
+        "directors": null,
+        "genre": "Comedy, Fantasy, Sitcom, Adventure"
+    },
+    {
+        "source": "dvd",
+        "title": "Harry Potter and the Deathly Hallows - Part 2 ",
+        "subject": "Movie",
+        "upc": null,
+        "actors": null,
+        "directors": null,
+        "genre": "Fantasy, Mystery"
+    },
+    {
+        "source": "dvd",
+        "title": "Harry and Meghan",
+        "subject": "Movie",
+        "upc": null,
+        "actors": null,
+        "directors": null,
+        "genre": "History, Documenter"
+    },
+    {
+        "source": "dvd",
+        "title": "Disney Infinity 1.0 Gold Edition",
+        "subject": "Game Disc",
+        "upc": null,
+        "actors": null,
+        "directors": null,
+        "genre": "DVD Game"
+    },
+    {
+        "source": "dvd",
+        "title": "Infinity Pool",
+        "subject": "Movie",
+        "upc": null,
+        "actors": null,
+        "directors": "Alexander Skarsgad",
+        "genre": "Adventure, Romance"
+    },
+    {
+        "source": "dvd",
+        "title": "Harry Wild",
+        "subject": "Movie",
+        "upc": null,
+        "actors": null,
+        "directors": null,
+        "genre": "Drama, Mystery, Comedy"
+    }
+]
